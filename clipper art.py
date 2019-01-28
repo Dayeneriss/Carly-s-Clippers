@@ -1,4 +1,4 @@
-'''L'objectif de ce projet est d'aider une entreprise (un salon de coiffure) à planifier le fonctionnement de l'entreprise pour le reste du mois. Pour ce faire, nous parcourons les listes de données collectées au cours des deux dernières semaines et calculons quelques paramètres importants.
+'''L'objectif de ce projet est d'aider une entreprise (un salon de coiffure) à planifier son fonctionnement pour le reste du mois. Pour ce faire, nous parcourons les listes de données collectées au cours des deux dernières semaines et calculons quelques paramètres importants.
 
 #Voici trois listes:
 hairstyles: les noms des coupes offertes chez Carly's Clippers
